@@ -816,6 +816,7 @@
     "spotpear.display.lightPixelAt": "light [STATE] at the x: [X] axis, y: [Y] axis",
     "spotpear.display.show": "show [TEXT]",
     "spotpear.display.showImage": "show image [VALUE]",
+    "spotpear.display.showImage16x16": "show image [VALUE]",
     "spotpear.display.showImageUntil": "show image [VALUE] for [TIME] secs",
     "spotpear.display.showOnPiexlbrightness": "show on the x: [X] axis, y: [Y] axis with brightness [BRT]",
     "spotpear.display.showUntilScrollDone": "show [TEXT] until scroll done",
